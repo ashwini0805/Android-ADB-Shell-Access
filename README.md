@@ -21,12 +21,12 @@ This project demonstrates how to establish a wireless debugging connection with 
 - Execute Linux-based system commands
 - Analyze processes and network configuration
 
- 🛠 Tools & Environment
+🛠 Tools & Environment
 
-- Kali Linux
-- Genymotion Android Emulator
+- Kali Linux (Host System)
 - Android Debug Bridge (ADB)
-- Physical Android Device: OPPO A3 Pro 5G (Wireless Debugging Enabled)
+- Physical Android Device: OPPO A3 Pro 5G
+- Wireless Debugging Enabled
 
 
 In a cybersecurity lab environment, a mobile security analyst remotely connects to an Android device to perform system inspection using ADB wireless debugging. Shell access is obtained to examine running processes, user context, and network configuration.
@@ -47,8 +47,14 @@ bash
 adb pair <ip>:<port>
 adb devices
 
-4.Access Shell
-
+4. Access Shell
+bash
+adb shell
 
 5.Execute Investigation Commands
 
+bash
+whoami
+pwd
+ps -A
+ip addr
