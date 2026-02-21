@@ -1,6 +1,6 @@
 Android Debugging & Shell Access using ADB
 
-Android Debug Bridge wireless connection and shell access project using Kali Linux and Genymotion.
+Android Debug Bridge wireless connection and shell access project using Kali Linux and Physical devices.
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Tool](https://img.shields.io/badge/Tool-ADB-blue)
