@@ -5,7 +5,6 @@ Android Debug Bridge wireless connection and shell access project using Kali Lin
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Tool](https://img.shields.io/badge/Tool-ADB-blue)
 ![Environment](https://img.shields.io/badge/OS-Kali%20Linux-black)
-![Emulator](https://img.shields.io/badge/Emulator-Genymotion-orange)
 ![Domain](https://img.shields.io/badge/Domain-Mobile%20Security-red)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
