@@ -48,10 +48,7 @@ adb pair <ip>:<port>
 adb devices
 
 4.Access Shell
-adb shell
+
 
 5.Execute Investigation Commands
-whoami
-pwd
-ps -A
-ip addr
+
