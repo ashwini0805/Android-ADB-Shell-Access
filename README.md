@@ -47,13 +47,12 @@ bash
 adb pair <ip>:<port>
 adb devices
 
-4. Access Shell
-bash
+4. Access Shell:
 adb shell
 
-5.Execute Investigation Commands
+5.Execute Investigation Commands:
 
-bash
+commands:
 whoami
 pwd
 ps -A
