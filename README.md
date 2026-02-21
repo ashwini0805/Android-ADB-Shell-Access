@@ -62,44 +62,74 @@ ip addr
 
  📸 Project Screenshots
 
+
 1. About Phone
-![About Phone](Screenshots/01_about%20phone.jpeg)
+<p align="center">
+  <img src="Screenshots/01_about%20phone.jpeg" width="600">
+</p>
 
-2️. Version
-![Version](Screenshots/02_version.jpeg)
+2. Version
+<p align="center">
+  <img src="Screenshots/02_version.jpeg" width="600">
+</p>
 
-3️. Developer Option
-![Developer Option](Screenshots/03_developer%20option.jpeg)
+3. Developer Option
+<p align="center">
+  <img src="Screenshots/03_developer%20option.jpeg" width="600">
+</p>
 
- 4️. Wireless Debugging
-![Wireless Debugging](Screenshots/04_wireless%20debugging.jpeg)
+4. Wireless Debugging
+<p align="center">
+  <img src="Screenshots/04_wireless%20debugging.jpeg" width="600">
+</p>
 
-5️. ADB Pair
-![ADB Pair](Screenshots/05_adb%20pair.png)
+5. ADB Pair
+<p align="center">
+  <img src="Screenshots/05_adb%20pair.png" width="600">
+</p>
 
-6️. ADB Devices
-![ADB Devices](Screenshots/06_adb%20devices.png)
+6. ADB Devices
+<p align="center">
+  <img src="Screenshots/06_adb%20devices.png" width="600">
+</p>
 
-7️. ADB Shell
-![ADB Shell](Screenshots/07_adb%20shell.png)
+7. ADB Shell
+<p align="center">
+  <img src="Screenshots/07_adb%20shell.png" width="600">
+</p>
 
-8️. Ifconfig
-![Ifconfig](Screenshots/08_ifconfig.png.png)
+8. Ifconfig
+<p align="center">
+  <img src="Screenshots/08_ifconfig.png.png" width="600">
+</p>
 
-9️. SD Card
-![SD Card](Screenshots/08_sdcard.png)
+9. SD Card
+<p align="center">
+  <img src="Screenshots/08_sdcard.png" width="600">
+</p>
 
 10. LS Command
-![LS](Screenshots/09_ls.png)
+<p align="center">
+  <img src="Screenshots/09_ls.png" width="600">
+</p>
 
 11. PWD
-![PWD](Screenshots/10_pwd.png.png)
+<p align="center">
+  <img src="Screenshots/10_pwd.png.png" width="600">
+</p>
 
 12. Whoami
-![Whoami](Screenshots/11_whoami.png.png)
+<p align="center">
+  <img src="Screenshots/11_whoami.png.png" width="600">
+</p>
 
 13. PS -A
-![PS -A](Screenshots/12_ps-A.png.png)
+<p align="center">
+  <img src="Screenshots/12_ps-A.png.png" width="600">
+</p>
 
 14. ID Command
-![ID](Screenshots/13_id.png)
+<p align="center">
+  <img src="Screenshots/13_id.png" width="600">
+</p>
+
