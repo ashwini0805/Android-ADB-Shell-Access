@@ -44,15 +44,15 @@ In a cybersecurity lab environment, a mobile security analyst remotely connects 
 
 3.Go to Cmd from ADB Platform tool[download from github]
 
-️3. Establish ADB Connection
+️4. Establish ADB Connection
 bash
 adb pair <ip>:<port>
 adb devices
 
-4. Access Shell:
+5. Access Shell:
 adb shell
 
-5.Execute Investigation Commands:
+6.Execute Investigation Commands:
 
 commands:
 whoami
@@ -65,71 +65,71 @@ ip addr
 
 1. About Phone
 <p align="center">
-  <img src="Screenshots/01_about%20phone.jpeg" width="600">
+  <img src="Screenshots/01_about%20phone.jpeg" width="300">
 </p>
 
 2. Version
 <p align="center">
-  <img src="Screenshots/02_version.jpeg" width="600">
+  <img src="Screenshots/02_version.jpeg" width="300">
 </p>
 
 3. Developer Option
 <p align="center">
-  <img src="Screenshots/03_developer%20option.jpeg" width="600">
+  <img src="Screenshots/03_developer%20option.jpeg" width="300">
 </p>
 
 4. Wireless Debugging
 <p align="center">
-  <img src="Screenshots/04_wireless%20debugging.jpeg" width="600">
+  <img src="Screenshots/04_wireless%20debugging.jpeg" width="300">
 </p>
 
 5. ADB Pair
 <p align="center">
-  <img src="Screenshots/05_adb%20pair.png" width="600">
+  <img src="Screenshots/05_adb%20pair.png" width="300">
 </p>
 
 6. ADB Devices
 <p align="center">
-  <img src="Screenshots/06_adb%20devices.png" width="600">
+  <img src="Screenshots/06_adb%20devices.png" width="300">
 </p>
 
 7. ADB Shell
 <p align="center">
-  <img src="Screenshots/07_adb%20shell.png" width="600">
+  <img src="Screenshots/07_adb%20shell.png" width="300">
 </p>
 
 8. Ifconfig
 <p align="center">
-  <img src="Screenshots/08_ifconfig.png.png" width="600">
+  <img src="Screenshots/08_ifconfig.png.png" width="300">
 </p>
 
 9. SD Card
 <p align="center">
-  <img src="Screenshots/08_sdcard.png" width="600">
+  <img src="Screenshots/08_sdcard.png" width="300">
 </p>
 
 10. LS Command
 <p align="center">
-  <img src="Screenshots/09_ls.png" width="600">
+  <img src="Screenshots/09_ls.png" width="300">
 </p>
 
 11. PWD
 <p align="center">
-  <img src="Screenshots/10_pwd.png.png" width="600">
+  <img src="Screenshots/10_pwd.png.png" width="300">
 </p>
 
 12. Whoami
 <p align="center">
-  <img src="Screenshots/11_whoami.png.png" width="600">
+  <img src="Screenshots/11_whoami.png.png" width="300">
 </p>
 
 13. PS -A
 <p align="center">
-  <img src="Screenshots/12_ps-A.png.png" width="600">
+  <img src="Screenshots/12_ps-A.png.png" width="300">
 </p>
 
 14. ID Command
 <p align="center">
-  <img src="Screenshots/13_id.png" width="600">
+  <img src="Screenshots/13_id.png" width="300">
 </p>
 
